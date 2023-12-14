@@ -1,8 +1,6 @@
 # PictureRevealWindows
 Author - Juhi
 
-# Picture Reveal App
-
 ## Overview
 
 Picture Reveal is a simple PyQt6-based application that presents a question and allows users to reveal an image by clicking a button.
