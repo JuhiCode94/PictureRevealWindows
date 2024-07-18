@@ -19,16 +19,17 @@ Picture Reveal is a simple PyQt6-based application that presents a question and 
     git clone https://github.com/your-username/picture-reveal-app.git
     ```
 
-2. Install PyQt6:
+2. Create a virtual environment and activate it:
 
-    ```bash
-    pip install PyQt6
+    ```
+    python -m venv venv
+    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
     ```
 
-3. Run the application:
+3. Install the required packages:
 
-    ```bash
-    python picture_reveal_app.py
+    ```
+    pip install -r requirements.txt
     ```
 
 4. Click the "Click me :)" button to reveal the picture.
