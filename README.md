@@ -11,10 +11,6 @@ Picture Reveal is a simple PyQt6-based application that presents a question and 
 - Click the button to reveal an image.
 - Stylish button design with hover and pressed effects.
 
-## Screenshots
-
-Include screenshots or a GIF showcasing your application's UI.
-
 ## How to Use
 
 1. Clone the repository:
